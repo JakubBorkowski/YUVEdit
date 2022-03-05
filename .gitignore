@@ -1,0 +1,7 @@
+.idea/
+*.iml
+
+# CMake
+cmake-build-*/
+CMakeLists.txt
+Config.txt
