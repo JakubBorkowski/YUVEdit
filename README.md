@@ -8,13 +8,13 @@ This program modifies images of the video sequence in a YUV file. Every image of
 ## Usage
 
 Program must be started with the following arguments in the same order:
-- `[Input patch]` - Patch to intput yuv file
+- `[Input patch]` - Patch to input yuv file
 - `[Output patch]` - Patch to output yuv file
 - `[Number of frames to process]` - Number of frames that program will process from input file to output file
-- `[Frequncy of change]` - Number of frames at which an image change will occur in the sequence
+- `[Frequency of change]` - Number of frames at which an image change will occur in the sequence
 - `[X resolution]` - Width of video sequence
 - `[Y resolution]` - Height of video sequence
-- `[Start of change (0/1)]` - **0** – if change of frame should start from first frame or **1** – if change of frame should start after number of frames specified in frequncy of change
+- `[Start of change (0/1)]` - **0** – if change of frame should start from first frame or **1** – if change of frame should start after number of frames specified in frequency of change
 
 
 Example use:
